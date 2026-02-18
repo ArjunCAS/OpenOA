@@ -1,0 +1,16 @@
+streamlit>=1.30.0
+-e .
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+statsmodels
+bokeh
+plotly
+pyproj
+shapely
+pygam
+attrs
+pyyaml
+tqdm
